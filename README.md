@@ -1,4 +1,4 @@
-# OpenFAST
+# OpenFAST OMP
 
 ## CMake Build Instructions
 
